@@ -79,13 +79,10 @@ When I'm not pushing code, you can find me trying to land a zero-to-death combo 
 I'm always open to connecting with fellow developers, gamers, and anime enthusiasts. Feel free to reach out!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/your-twitter-username" target="_blank">
+  <a href="https://x.com/LunjieMp4" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
