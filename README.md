@@ -69,7 +69,7 @@ When I'm not pushing code, you can find me trying to land a zero-to-death combo 
 ...or getting hyped by an epic anime fight scene. It's all about that power scaling, right?
 <br><br>
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDBidGR4eWRmMDRuM2p4eHJ3Mmd4bHBjcnV2dXNqemJ3bHNpc3h3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uxXoGU4o33BC8/giphy.gif" width="400"/>
+  <img src="https://media1.tenor.com/m/Y_4_saaGYwUAAAAd/jujutsu-kaisen-mahito.gif"/>
 </div>
 
 ---
