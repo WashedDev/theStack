@@ -1,5 +1,5 @@
-#<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0d2N6dnV6aGRqYnAxMWZia29oMWVuc3h1aG5qNmtoZ2RtaDVwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CgtG2w4i2RTJ6/giphy.gif" width="600" height="300"/>
+<div align="center">
+  <img src="https://media1.tenor.com/m/-AGHMBlq6ccAAAAd/typing-laughing.gif"/>
 </div>
 
 <div align="center">
@@ -63,7 +63,7 @@
 When I'm not pushing code, you can find me trying to land a zero-to-death combo or just enjoying a good match.
 <br><br>
 <div align="center">
-  <img src="https://media.tenor.com/yU5J2x5KSGIAAAAC/brawlhalla-nix-nix-brawlhalla.gif" width="400"/>
+  <img src="https://media1.tenor.com/m/XdFeo215JuYAAAAC/brawlhalla.gif"/>
 </div>
 <br>
 ...or getting hyped by an epic anime fight scene. It's all about that power scaling, right?
